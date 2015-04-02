@@ -34,4 +34,5 @@ Wallpapers for the Hawaii desktop environment.
 
 %files
 %dir %{_datadir}/backgrounds/hawaii
-%{_datadir}/backgrounds/hawaii/*.jpg
+%{_datadir}/backgrounds/hawaii/*.*g
+
