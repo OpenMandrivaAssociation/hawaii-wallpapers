@@ -10,6 +10,7 @@ URL:		http://www.maui-project.org
 Source0:	http://downloads.sourceforge.net/project/mauios/hawaii/%{name}/%{name}-%{version}.tar.gz
 Source1:	hawaii-wallpapers.rpmlintrc
 BuildRequires:	cmake
+BuildRequires:	cmake(ECM)
 
 %track
 prog %{name} = {
