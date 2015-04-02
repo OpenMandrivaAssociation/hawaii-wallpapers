@@ -33,11 +33,5 @@ Wallpapers for the Hawaii desktop environment.
 %makeinstall_std -C build
 
 %files
-%dir %{_datadir}/hawaii/wallpapers/org.hawaii.fallingleaves
-%dir %{_datadir}/hawaii/wallpapers/org.hawaii.randomcolors
-%dir %{_datadir}/hawaii/wallpapers/org.hawaii.swirl
-%{_datadir}/backgrounds/hawaii
-%{_datadir}/hawaii/wallpapers/org.hawaii.fallingleaves/*
-%{_datadir}/hawaii/wallpapers/org.hawaii.randomcolors/*
-%{_datadir}/hawaii/wallpapers/org.hawaii.swirl/*
-
+%dir %{_datadir}/backgrounds/hawaii
+%{_datadir}/backgrounds/hawaii/*.jpg
