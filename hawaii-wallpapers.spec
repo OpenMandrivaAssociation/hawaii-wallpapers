@@ -2,8 +2,8 @@
 
 Summary:	Hawaii wallpapers
 Name:		hawaii-wallpapers
-Version:	0.3.0
-Release:	2
+Version:	0.4.0
+Release:	1
 License:	GPLv2+
 Group:		Graphical desktop/Other
 URL:		http://www.maui-project.org
