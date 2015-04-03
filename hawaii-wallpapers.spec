@@ -6,7 +6,7 @@ Version:	0.4.0
 Release:	1
 License:	GPLv2+
 Group:		Graphical desktop/Other
-URL:		http://www.maui-project.org
+URL:		https://hawaii-desktop.github.io
 Source0:	http://downloads.sourceforge.net/project/mauios/hawaii/%{name}/%{name}-%{version}.tar.gz
 Source1:	hawaii-wallpapers.rpmlintrc
 BuildRequires:	cmake
