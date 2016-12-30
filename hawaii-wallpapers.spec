@@ -2,12 +2,12 @@
 
 Summary:	Hawaii wallpapers
 Name:		hawaii-wallpapers
-Version:	0.4.0
+Version:	0.8.0
 Release:	1
 License:	GPLv2+
 Group:		Graphical desktop/Other
 URL:		https://hawaii-desktop.github.io
-Source0:	https://github.com/hawaii-desktop/%{name}/archive/v%{version}.tar.gz
+Source0:	https://github.com/hawaii-desktop/%{name}/archive/%{name}-%{version}.tar.xz
 Source1:	hawaii-wallpapers.rpmlintrc
 BuildRequires:	cmake
 BuildRequires:	cmake(ECM)
